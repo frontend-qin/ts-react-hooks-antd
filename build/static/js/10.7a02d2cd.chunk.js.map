@@ -1,0 +1,1 @@
+{"version":3,"sources":["view/User/index.tsx"],"names":["User"],"mappings":"yGAAA,2BAKeA,UAHQ,WACrB,OAAO","file":"static/js/10.7a02d2cd.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst User: React.FC = () => {\r\n  return <div>User</div>\r\n}\r\nexport default User\r\n"],"sourceRoot":""}
