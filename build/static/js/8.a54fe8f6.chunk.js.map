@@ -1,0 +1,1 @@
+{"version":3,"sources":["view/Home/index.tsx"],"names":["Home"],"mappings":"wGAAA,2BASeA,UAPF,WACX,OACE,6BACE","file":"static/js/8.a54fe8f6.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst Home = () => {\r\n  return (\r\n    <div>\r\n      <h1>Home</h1>\r\n    </div>\r\n  )\r\n}\r\nexport default Home\r\n"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["view/NotFound/index.tsx"],"names":["NotFound"],"mappings":"wGAAA,2BAIeA,UAHE,WACf,OAAO","file":"static/js/9.4a90dcfe.chunk.js","sourcesContent":["import React from 'react'\r\nconst NotFound = () => {\r\n  return <div> 404页面</div>\r\n}\r\nexport default NotFound\r\n"],"sourceRoot":""}

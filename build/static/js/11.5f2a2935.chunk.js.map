@@ -1,0 +1,1 @@
+{"version":3,"sources":["view/User/page/UserInfor/index.tsx"],"names":["UserInfor"],"mappings":"yGAAA,2BAIeA,UAHG,WAChB,OAAO","file":"static/js/11.5f2a2935.chunk.js","sourcesContent":["import React from 'react'\r\nconst UserInfor = () => {\r\n  return <div>UserInfor</div>\r\n}\r\nexport default UserInfor\r\n"],"sourceRoot":""}
